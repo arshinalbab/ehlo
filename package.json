@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "ehlo",
+  "version": "1.0.0",
+  "description": "Simple EHLO Server",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https//github.com/arshinalbab/ehlo"
+  },
+  "keywords": [
+    "Echo",
+    "Server",
+    "EHLO",
+    "Server"
+  ],
+  "author": "Arshin Albab <arshinalbab@gmail.com>",
+  "license": "MIT"
+}
